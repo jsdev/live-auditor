@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "e2e": "npx playwright test --project=\"chromium\""
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.8.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  }
+}
